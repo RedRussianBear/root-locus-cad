@@ -1,0 +1,1120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GCSCMDirState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <UpdateTime>2024-01-14T23:01:26.1551578+00:00</UpdateTime>
+  <Standins>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\1000 - DRIVE\1100 - DRIVE GEARMOTOR\1110 - DRIVE MOTOR BE1806 2300kV\A-1110-P - BE1806 2300kV.SLDASM</FileName>
+      <SHA1>46156B8277122CEB25F0846443A9A5768C82422F</SHA1>
+      <FileSize>2032175</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\1000 - DRIVE\1100 - DRIVE GEARMOTOR\1110 - DRIVE MOTOR BE1806 2300kV\P-1111-P - BE1806 STATOR.SLDPRT</FileName>
+      <SHA1>B7A627CE511F35CE3C5867B838504F515028ABD7</SHA1>
+      <FileSize>2911180</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\1000 - DRIVE\1100 - DRIVE GEARMOTOR\1110 - DRIVE MOTOR BE1806 2300kV\P-1112-P - BE1806 ROTOR.SLDPRT</FileName>
+      <SHA1>0D96C0742F4C4E0112970FC6D6729CF42AF1A4CB</SHA1>
+      <FileSize>336018</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\1000 - DRIVE\1100 - DRIVE GEARMOTOR\1120 - DRIVE GEARBOX\A-1120-N - DRIVE 10-1 SPUR GEARBOX.SLDASM</FileName>
+      <SHA1>5E21DBA627F62BB3415C8D36E499DFC9C0CD52F8</SHA1>
+      <FileSize>933388</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\1000 - DRIVE\1100 - DRIVE GEARMOTOR\1120 - DRIVE GEARBOX\P-1121-P - GEARBOX  BACKPLATE.SLDPRT</FileName>
+      <SHA1>CEC5C887E5509289EE28A58C6B9B4E66542CC362</SHA1>
+      <FileSize>150123</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\1000 - DRIVE\1100 - DRIVE GEARMOTOR\1120 - DRIVE GEARBOX\P-1122-P - CENTRAL GEARBOX ELEMENT.SLDPRT</FileName>
+      <SHA1>F00AD2E43B6D3CB679C17CC33F034BC9B5B1F012</SHA1>
+      <FileSize>76247</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\1000 - DRIVE\1100 - DRIVE GEARMOTOR\1120 - DRIVE GEARBOX\P-1123-P - GEARBOX FRONTPLATE.SLDPRT</FileName>
+      <SHA1>36733F5717509708FA3599EEFC36B485B9448A54</SHA1>
+      <FileSize>144655</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\1000 - DRIVE\1100 - DRIVE GEARMOTOR\1120 - DRIVE GEARBOX\P-1124-P - GEARBOX OUTPUT BUSHING.SLDPRT</FileName>
+      <SHA1>DEC41EBF328A04CB45C7A82237643EDAB547DE67</SHA1>
+      <FileSize>74132</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\1000 - DRIVE\1100 - DRIVE GEARMOTOR\1120 - DRIVE GEARBOX\P-1125-P - GEARBOX OUTPUT SHAFT.SLDPRT</FileName>
+      <SHA1>6827231290D22BB6441AFEE8603BD6D972CAC38E</SHA1>
+      <FileSize>54028</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\1000 - DRIVE\1100 - DRIVE GEARMOTOR\1120 - DRIVE GEARBOX\P-1126-P - M2.5 14mm PAN HEAD SCREW 92000A108.SLDPRT</FileName>
+      <SHA1>3622AAFB69246A0E2ECF86CC5B6DE0277AA7AC17</SHA1>
+      <FileSize>1100630</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\1000 - DRIVE\1100 - DRIVE GEARMOTOR\A-1100-N - DRIVE GEARMOTOR ASSEMBLY.SLDASM</FileName>
+      <SHA1>B717E30492DE566287C1A8ADC6CBB6B1D1E21101</SHA1>
+      <FileSize>3800804</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\1000 - DRIVE\1100 - DRIVE GEARMOTOR\P-1101-W - MOUNTING PLATE.SLDPRT</FileName>
+      <SHA1>7E9E9EE9F2C920A70363B27E2F77CF1FEDD8A34B</SHA1>
+      <FileSize>122955</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\1000 - DRIVE\1100 - DRIVE GEARMOTOR\P-1102-F - BACKING PLATE.SLDPRT</FileName>
+      <SHA1>BFB053EDC46321E9D335B024F2A4AE1078686205</SHA1>
+      <FileSize>152509</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\1000 - DRIVE\1100 - DRIVE GEARMOTOR\P-1104-F - DRIVE S3M 14T PULLEY.SLDPRT</FileName>
+      <SHA1>2B38C11A9E7DE60F30C47C8A4719A2E02D6DE805</SHA1>
+      <FileSize>755814</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\1000 - DRIVE\1100 - DRIVE GEARMOTOR\R-1103-N - 14T S3M PULLEY HTPA14S3M060-A-H4_b.sldprt</FileName>
+      <SHA1>80F15433087609B37053F4E31FF4048E04CFD1B0</SHA1>
+      <FileSize>329550</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\1000 - DRIVE\1200 - WHEEL ASSEMBLY\1220 - WHEEL STACKUP\A-1220-N - WHEEL STACKUP.SLDASM</FileName>
+      <SHA1>127D7D86FD867D028FA8E3B2838237ADC0E5FEE5</SHA1>
+      <FileSize>247643</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\1000 - DRIVE\1200 - WHEEL ASSEMBLY\A-1200-N - WHEEL ASSEMBLY.SLDASM</FileName>
+      <SHA1>FA3F995303079296320FF15F1B2496069994C79B</SHA1>
+      <FileSize>469600</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\1000 - DRIVE\1200 - WHEEL ASSEMBLY\P-1201-P - 8mm x 45mm x M6 SHOULDER SCREW 92981A250.SLDPRT</FileName>
+      <SHA1>0164290FC437B74EA9329334D9BFF2EAAF38D156</SHA1>
+      <FileSize>229791</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\1000 - DRIVE\1200 - WHEEL ASSEMBLY\P-1202-F - HUB PULLEY 28T S3M.SLDPRT</FileName>
+      <SHA1>6CDA27AB1F258D51CCCFC283A50BF8EB30B6BE0B</SHA1>
+      <FileSize>864769</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\1000 - DRIVE\1200 - WHEEL ASSEMBLY\P-1203-P - COPPER-IRON FLANGE BUSHING 8mm SHAFT 7119N124.SLDPRT</FileName>
+      <SHA1>58CDEF22ECEF0777757BAAD3C5CE2188E315A749</SHA1>
+      <FileSize>97512</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\1000 - DRIVE\1200 - WHEEL ASSEMBLY\P-1204-F - WHEEL FRAME.SLDPRT</FileName>
+      <SHA1>B763CB659E4B821EDC40D40110218999259C5D95</SHA1>
+      <FileSize>232615</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\1000 - DRIVE\1200 - WHEEL ASSEMBLY\P-1205-P - 8mm x 50mm SHOULDER SCREW M6 92981A207.SLDPRT</FileName>
+      <SHA1>05A619F4C041E985D713BA2EFB3625A9116C538D</SHA1>
+      <FileSize>379411</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\1000 - DRIVE\1200 - WHEEL ASSEMBLY\P-1208-C - WHEEL TREAD.SLDPRT</FileName>
+      <SHA1>D56F9F3CFEBDB8B5BDD64036036CD3B956343B8E</SHA1>
+      <FileSize>30514</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\1000 - DRIVE\1200 - WHEEL ASSEMBLY\P-1209-P - 0.75in SNAP RING 98410A128.SLDPRT</FileName>
+      <SHA1>AC192D61CF8FE732D61C60ACFBC4CEBAACC4CC04</SHA1>
+      <FileSize>117655</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\1000 - DRIVE\1200 - WHEEL ASSEMBLY\P-1210-W - AXLE SECURING FRONTPLATE.SLDPRT</FileName>
+      <SHA1>37203F5B293DA3B41F2FC900A41695ECE05C8A61</SHA1>
+      <FileSize>105308</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\1000 - DRIVE\1200 - WHEEL ASSEMBLY\P-1211-F - AXLE SECURING BUFFER.SLDPRT</FileName>
+      <SHA1>2B98A5D4E24C411C9913CE0E3C59D033C6300206</SHA1>
+      <FileSize>69456</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\1000 - DRIVE\1200 - WHEEL ASSEMBLY\P-1212-W - AXLE SECURING BACKPLATE.SLDPRT</FileName>
+      <SHA1>F173122B14909172152011E5ADCAD96F14D409AE</SHA1>
+      <FileSize>32884</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\1000 - DRIVE\1200 - WHEEL ASSEMBLY\P-1213-F - AXLE SECURING NUT RETAINER.SLDPRT</FileName>
+      <SHA1>9F1F518A438689FC4EFB4ED2394A307270FAC05A</SHA1>
+      <FileSize>138493</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\1000 - DRIVE\1200 - WHEEL ASSEMBLY\R-1201-N - 28T S3M PULLEY HTPA28S3M060-A-H6.35_b.sldprt</FileName>
+      <SHA1>F8A23918564951A69F7B4E3284D72956DC014496</SHA1>
+      <FileSize>560038</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\1000 - DRIVE\A-1100-N - DRIVE SEGMENT.SLDASM</FileName>
+      <SHA1>D0BE0F78CA20BB210B288F3A14ACC1547DD078CF</SHA1>
+      <FileSize>4193623</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\2000 - ELECTRONICS\PP-3002 - 3S 850 mAHr BATTERY.SLDPRT</FileName>
+      <SHA1>0805A79E970426C38E3240F76F671F28E2526C6A</SHA1>
+      <FileSize>123024</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\3000 - WEAPON\3100 - WEAPON MOTOR\A-3100-P - 3540 MOTOR ORIGINAL.SLDASM</FileName>
+      <SHA1>F3BA4D5FB944EC53F43823EE844478B847E45FB7</SHA1>
+      <FileSize>1170613</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\3000 - WEAPON\3100 - WEAPON MOTOR\A-3110-P - 3540 ROTOR ASSEMBLY.SLDASM</FileName>
+      <SHA1>7D0BD0F3641B7640A0FBA5C991F6C376C023874A</SHA1>
+      <FileSize>127035</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\3000 - WEAPON\3100 - WEAPON MOTOR\A-3120-P - 3540 STATOR ASSEMBLY.SLDASM</FileName>
+      <SHA1>923B8BAFBD53DB797E2FA26D5D3A103132D19F1D</SHA1>
+      <FileSize>1130317</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\3000 - WEAPON\3100 - WEAPON MOTOR\P-3111-P - 3540 ORIGINAL 5mm SHAFT.SLDPRT</FileName>
+      <SHA1>692BDB749E280425CE5BD4E0208F4A0B05C93991</SHA1>
+      <FileSize>96528</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\3000 - WEAPON\3100 - WEAPON MOTOR\P-3112-P - 3540 ROTOR.SLDPRT</FileName>
+      <SHA1>8B3528E1B5EDE8828FBED69E53C868A2292A45E5</SHA1>
+      <FileSize>240371</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\3000 - WEAPON\3100 - WEAPON MOTOR\P-3121-P - 3540 STATOR.SLDPRT</FileName>
+      <SHA1>D69812D38A1CB132C8937E133F5DEFC6917273DD</SHA1>
+      <FileSize>353841</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\3000 - WEAPON\3100 - WEAPON MOTOR\P-3122-P - 3540 BASE.SLDPRT</FileName>
+      <SHA1>A213DC6A91DA25E27F0BF9434DE8F7D6DA423E7B</SHA1>
+      <FileSize>334898</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\3000 - WEAPON\3100 - WEAPON MOTOR\P-3123-P - SMB 685ZZ 5 x 11 x 5 BALL BEARING.SLDPRT</FileName>
+      <SHA1>FCED5CF32CC78425C69E1CFDA8DDF79B1F514A0A</SHA1>
+      <FileSize>1118925</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\3000 - WEAPON\3200 - WEAPON DRUM\A-3200-N - WEAPON DRUM ASSEMBLY.SLDASM</FileName>
+      <SHA1>8B3D9741B39D3CAF927E4F5FBB6E5F95019425D4</SHA1>
+      <FileSize>796287</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\3000 - WEAPON\3200 - WEAPON DRUM\P-3201-M - WEAPON DRUM.SLDPRT</FileName>
+      <SHA1>6B3609D739A10C0D7A93D364C9E3E359AF42D032</SHA1>
+      <FileSize>161654</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\3000 - WEAPON\3200 - WEAPON DRUM\P-3202-P - 6200-ZZ 10mm BORE 30mm OD BALL BEARING 5972K326.SLDPRT</FileName>
+      <SHA1>DC8A13A2F3916AF1921E4C06E665DE65161216D5</SHA1>
+      <FileSize>752185</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\3000 - WEAPON\3200 - WEAPON DRUM\P-3202-P - 6201-ZZ 12mm BORE 32mm OD BALL BEARING 5972K327.SLDPRT</FileName>
+      <SHA1>3170608A0EBA34F4DB69389C720152455D19E931</SHA1>
+      <FileSize>337849</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\3000 - WEAPON\3200 - WEAPON DRUM\P-3203-W - BEATER ARMS.SLDPRT</FileName>
+      <SHA1>E50BD37531B2C85F8C4F089111D11C55BE9E196F</SHA1>
+      <FileSize>126185</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\3000 - WEAPON\3200 - WEAPON DRUM\P-3204-W - BEATER BAR.SLDPRT</FileName>
+      <SHA1>9C03063B3E248446AFAAE8EE656116F58924F0C1</SHA1>
+      <FileSize>37779</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\3000 - WEAPON\3200 - WEAPON DRUM\R-3205-N - WEAPON BOUNDING CYLINDER.SLDPRT</FileName>
+      <SHA1>4917ED26E7D9C1AF2014F446DE7B8935C9713F0A</SHA1>
+      <FileSize>34172</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\3000 - WEAPON\A-3000-N - WEAPON ASSEMBLY.SLDASM</FileName>
+      <SHA1>AB26091FA7F5E6ECE95329A0D68B707DD01B8E26</SHA1>
+      <FileSize>1610045</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\3000 - WEAPON\P-3001-P - 10mm x 100mm SHOULDER BOLT 92981A314.SLDPRT</FileName>
+      <SHA1>2529911B4DA46CBAB2B4D01F0E6C2C43FB787E59</SHA1>
+      <FileSize>726714</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\3000 - WEAPON\P-3001-P - 12mm x 100mm SHOULDER BOLT 92981A412.SLDPRT</FileName>
+      <SHA1>5D21502D030DB4E40616B2D018CA7E972A81BB48</SHA1>
+      <FileSize>665914</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\3000 - WEAPON\P-3001-P - 12mm x 120mm SHOULDER BOLT 92981A418.SLDPRT</FileName>
+      <SHA1>3A06D4C2FCA73F8E3A8B761D9D02445383A7307D</SHA1>
+      <FileSize>405778</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\3000 - WEAPON\P-3002-P - 12mm x 20mm x 2mm THRUST WASHER 2872T42.SLDPRT</FileName>
+      <SHA1>38B15682942872309B2ABA379127693A44BA166C</SHA1>
+      <FileSize>143520</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\3000 - WEAPON\P-3003-M - INTERNAL SPACER.SLDPRT</FileName>
+      <SHA1>89E052E5AB99267FB54B65614191EA2C7525BB08</SHA1>
+      <FileSize>83904</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\4000 - COMMON\4100 - FASTENERS\P-4101-P - M3 FLATHEAD TORX 6mm SCREW 94414A712.SLDPRT</FileName>
+      <SHA1>0FFD1F817C4E1069341F42DA5B57CF0C1F5C1215</SHA1>
+      <FileSize>414521</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\4000 - COMMON\4100 - FASTENERS\P-4101-P - M3 x 6mm FLATHEAD SCREW 91294A126.SLDPRT</FileName>
+      <SHA1>98EB76125ECCB40763CFD4F681AA0F75D823A9A1</SHA1>
+      <FileSize>154481</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\4000 - COMMON\4100 - FASTENERS\P-4102-P - M3 x 20mm FLATHEAD SCREW 91294A136.SLDPRT</FileName>
+      <SHA1>4FE79BC3A335BAD3EEC4953B369023488CDF810A</SHA1>
+      <FileSize>175484</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\4000 - COMMON\4100 - FASTENERS\P-4103-P - M6 x 35mm SOCKET HEAD SCREW 91290A202.SLDPRT</FileName>
+      <SHA1>5A6A519A0497ED8881F21ABAE90A0CF6732CBF3E</SHA1>
+      <FileSize>163859</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\4000 - COMMON\4100 - FASTENERS\P-4104-P - No. 6 0.5in TORX PLASTITE SCREW 99512A259.SLDPRT</FileName>
+      <SHA1>0654E59CCC3D4C196C184C0BB25E8E542CA6D9A5</SHA1>
+      <FileSize>259893</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\4000 - COMMON\4100 - FASTENERS\P-4105-P - M3 x 16mm FLATHEAD SCREW 91294A134.SLDPRT</FileName>
+      <SHA1>121723824E38378F515D6842AC196D207AF634EE</SHA1>
+      <FileSize>168226</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\4000 - COMMON\4100 - FASTENERS\P-4106-P - No. 6 0.375in TORX PLASTITE SCREW 99512A665.SLDPRT</FileName>
+      <SHA1>25942D487A7DA4E6C6F3833831A372652D4C15D4</SHA1>
+      <FileSize>758909</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\4000 - COMMON\4100 - FASTENERS\P-4107-P - M6 x 25mm BUTTON HEAD SCREW 91239A327.SLDPRT</FileName>
+      <SHA1>11D5D27A41CFB6022B5AA8DD4982E07B1BCA351B</SHA1>
+      <FileSize>1018955</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\4000 - COMMON\4100 - FASTENERS\P-4111-P - M3 LOCKNUT 90576A102.SLDPRT</FileName>
+      <SHA1>80DB7F6C3E54C06116122A12DFAA91CB4B900601</SHA1>
+      <FileSize>264468</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\4000 - COMMON\4100 - FASTENERS\P-4112-P - M6 HEX NUT 90592A016.SLDPRT</FileName>
+      <SHA1>B19B5CF48A1923E264506F03C6A9605CB07B37D5</SHA1>
+      <FileSize>137670</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\4000 - COMMON\4100 - FASTENERS\P-4113-P - M10 HEX NUT 90593A008.SLDPRT</FileName>
+      <SHA1>4466CC846BAC8BE44C844DF8AF44BF23C63E9B11</SHA1>
+      <FileSize>372313</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\4000 - COMMON\4100 - FASTENERS\P-4114-P - M8 HEX NUT 90592A022.SLDPRT</FileName>
+      <SHA1>47098A8A85536FCEAADB35BA62EFC6C8A7C24F88</SHA1>
+      <FileSize>360440</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\4000 - COMMON\4100 - FASTENERS\P-4121-P - M6 STEEL WASHER 96505A114.SLDPRT</FileName>
+      <SHA1>68707A89D5764A4C11CE3B5AE29500F420AB6C9E</SHA1>
+      <FileSize>70900</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\A-0000-N - ROOT LOCUS.SLDASM</FileName>
+      <SHA1>EB04F2C3A8A39BCB5340363703DAD4EC28B6DD6F</SHA1>
+      <FileSize>7461045</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\P-0001-W - SIDE PANEL.SLDPRT</FileName>
+      <SHA1>6FE693D703EC10C826283AAC3A983E89163B7609</SHA1>
+      <FileSize>625811</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\P-0002-W - BACK PANEL.SLDPRT</FileName>
+      <SHA1>11A2CC9797EA9790E0CE00E5B2B18ADBC4BDE9D5</SHA1>
+      <FileSize>102381</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\P-0003-W - FRONT PANEL.SLDPRT</FileName>
+      <SHA1>32DC9DE12F26338B185429770699B36DE68F7F35</SHA1>
+      <FileSize>152679</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\P-0004-W - BOTTOM PLATE.SLDPRT</FileName>
+      <SHA1>AE6FADB4A548DE0321D4EFF5DBDD1FBAA036EEB0</SHA1>
+      <FileSize>180067</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\P-0005-W - TOP PLATE.SLDPRT</FileName>
+      <SHA1>44A946246E7B8549E4AF15DD4AF671DB5518F24F</SHA1>
+      <FileSize>167790</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\P-0011-W - WEAPON GUSSET RIGHT.SLDPRT</FileName>
+      <SHA1>CBABA3FFFDA2CDEE71DA37A61678783D8557942F</SHA1>
+      <FileSize>127673</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\P-0012-W - WEAPON GUSSET LEFT OUTER.SLDPRT</FileName>
+      <SHA1>F7DD15E89B393DF4FFDEF3EBDEF4484ADB15D022</SHA1>
+      <FileSize>126070</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\P-0013-W - WEAPON GUSSET LEFT INNER.SLDPRT</FileName>
+      <SHA1>0BE4674E7C7B0F7507A99BD2DACC831120C22027</SHA1>
+      <FileSize>112013</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\1000 - DRIVE\1100 - DRIVE GEARMOTOR\P-1105-F - HUB COVER.SLDPRT</FileName>
+      <SHA1>AC21E8E44FB23BA1D5FF84DE4023D0870AB69A80</SHA1>
+      <FileSize>384646</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\2000 - ELECTRONICS\P-2002-P - 40A WEAPON ESC.SLDPRT</FileName>
+      <SHA1>A137AE8C5646E2369A9DBE294CF224B39088A6BE</SHA1>
+      <FileSize>174135</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\2000 - ELECTRONICS\P-2003-P - PDB.SLDPRT</FileName>
+      <SHA1>D795D60C146A4BD7B257588F444C239A7A9B0F0E</SHA1>
+      <FileSize>1126486</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\2000 - ELECTRONICS\P-2004-P - RX.SLDPRT</FileName>
+      <SHA1>BC961C0DE161686FEC8D7041D4AC26731FE32BBF</SHA1>
+      <FileSize>69352</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\2000 - ELECTRONICS\P-2005-P - 20A DRIVE ESC.SLDPRT</FileName>
+      <SHA1>84BFFA58302F55952EB86AA17FE6AEE64F1A4274</SHA1>
+      <FileSize>62348</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\D-0004-W - BOTTOM PLATE.DXF</FileName>
+      <SHA1>2CCDC8D96D28FA2E357EAAD889F5812C9269ECC1</SHA1>
+      <FileSize>26959</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\D-0005-W - TOP PLATE.DXF</FileName>
+      <SHA1>CE8EE21F0D5F58B2A918212E7BE8FC1AAD58D3F5</SHA1>
+      <FileSize>26301</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Root Locus.JPG</FileName>
+      <SHA1>A4D376768CBAEDEC62A1C6E0F5B099D7B5182F28</SHA1>
+      <FileSize>337320</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\3000 - WEAPON\P-3002-M - LEFT SIDE SPACER.SLDPRT</FileName>
+      <SHA1>D7FF301AC38D16B6B528025CCD1CA0AA45E7C330</SHA1>
+      <FileSize>130544</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\3000 - WEAPON\P-3004-M - INTER BEARING SPACER.SLDPRT</FileName>
+      <SHA1>3C5DBBC06930B65A8721E76276067456686236E6</SHA1>
+      <FileSize>87939</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\4000 - COMMON\4200 - TOOLING AND JIGS\A-4210 - DRILLING JIGS.SLDASM</FileName>
+      <SHA1>25CDAC551A7885F2211773D1150FDF56822D619F</SHA1>
+      <FileSize>189161</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\4000 - COMMON\4200 - TOOLING AND JIGS\P-4201-F - SCREW SHORTENING JIG.SLDPRT</FileName>
+      <SHA1>ACCA20B1A8CA4E8D0EBC0FEC742AD29AC0C7B23A</SHA1>
+      <FileSize>4914704</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\4000 - COMMON\4200 - TOOLING AND JIGS\P-4202-F - SHOUDLER BOLT THREAD REDUCTION JIG.SLDPRT</FileName>
+      <SHA1>B81F17E7260EE724F4720180AEC951FFB695C494</SHA1>
+      <FileSize>370693</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\4000 - COMMON\4200 - TOOLING AND JIGS\P-4211-F - TOP SIDE PANEL PUNCHING JIG.SLDPRT</FileName>
+      <SHA1>4E1E99B1ECB9DCA6D59B73885DA9718878983100</SHA1>
+      <FileSize>62561</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\4000 - COMMON\4200 - TOOLING AND JIGS\P-4212-F - BOTTOM SIDE PANEL PUNCHING JIG.SLDPRT</FileName>
+      <SHA1>EF21B9E0B32F9308615467774C81CEC047AECBE4</SHA1>
+      <FileSize>58240</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\4000 - COMMON\4200 - TOOLING AND JIGS\P-4213-F - FRONT PANEL SIDE PUNCHING JIG.SLDPRT</FileName>
+      <SHA1>3AC8822CBAD0735490958EBB233A66D82B902CCB</SHA1>
+      <FileSize>83237</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\4000 - COMMON\4200 - TOOLING AND JIGS\P-4214-F - FRONT PANEL TOP PUNCHING JIG.SLDPRT</FileName>
+      <SHA1>7ED2BC554E4129850FF58BBB5F543787BB3598C6</SHA1>
+      <FileSize>79455</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\4000 - COMMON\4200 - TOOLING AND JIGS\P-4215-F - REAR PANEL SIDE PUNCHING JIG.SLDPRT</FileName>
+      <SHA1>88260C8365F18F690533069C7641B120C81D7171</SHA1>
+      <FileSize>85608</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\4000 - COMMON\4200 - TOOLING AND JIGS\S-4201-F - SCREW SHORTENING JIG - 16mm.3MF</FileName>
+      <SHA1>8EC35F4745F6B845D3A1C3E89E04F995B2A4217F</SHA1>
+      <FileSize>1943897</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\4000 - COMMON\4200 - TOOLING AND JIGS\S-4201-F - SCREW SHORTENING JIG - 6mm.3MF</FileName>
+      <SHA1>4278293AC711FA6E2F3FEA323F73DCE7056A9C6C</SHA1>
+      <FileSize>419104</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\4000 - COMMON\4200 - TOOLING AND JIGS\S-4202-F - SHOUDLER BOLT THREAD REDUCTION JIG.3MF</FileName>
+      <SHA1>06772855D0135A34CCD24ACBE5777F28C6C9DCF4</SHA1>
+      <FileSize>845215</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\4000 - COMMON\4200 - TOOLING AND JIGS\S-4211-F - TOP SIDE PANEL PUNCHING JIG.3MF</FileName>
+      <SHA1>92B6B50F4E3F26D5228005129143FA9A0E8419E7</SHA1>
+      <FileSize>61033</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\4000 - COMMON\4200 - TOOLING AND JIGS\S-4212-F - BOTTOM SIDE PANEL PUNCHING JIG.3MF</FileName>
+      <SHA1>919FB6EC57AF4E294DF121EE8BC3EF8CC0240A66</SHA1>
+      <FileSize>81180</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\4000 - COMMON\4200 - TOOLING AND JIGS\S-4213-F - FRONT PANEL SIDE PUNCHING JIG.3MF</FileName>
+      <SHA1>7FF605EBBE9453C8052F4E00D001A61501A1D7A8</SHA1>
+      <FileSize>18922</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\4000 - COMMON\4200 - TOOLING AND JIGS\S-4214-F - FRONT PANEL TOP PUNCHING JIG.3MF</FileName>
+      <SHA1>7164E306EE3F0B3DF79D0B8835F3851089CA5D48</SHA1>
+      <FileSize>17937</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\4000 - COMMON\4200 - TOOLING AND JIGS\S-4215-F - REAR PANEL SIDE PUNCHING JIG.3MF</FileName>
+      <SHA1>BC5823D6347C12D4CFD21929157FC2C662C33051</SHA1>
+      <FileSize>15633</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\1000 - DRIVE\1100 - DRIVE GEARMOTOR\S-1102-F - BACKING PLATE.3MF</FileName>
+      <SHA1>ADF98FAE278238C91DB84992CEB89BF335602099</SHA1>
+      <FileSize>35028</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\1000 - DRIVE\1100 - DRIVE GEARMOTOR\S-1104-F - DRIVE S3M 14T PULLEY.3MF</FileName>
+      <SHA1>0368272D049B034D47234329234FA387730F5A99</SHA1>
+      <FileSize>77717</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\1000 - DRIVE\1100 - DRIVE GEARMOTOR\S-1105-F - HUB COVER.3MF</FileName>
+      <SHA1>51DDBCE7BF80A316A79E75E97ABC15FAE908A9D9</SHA1>
+      <FileSize>115551</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\1000 - DRIVE\1200 - WHEEL ASSEMBLY\S-1202-F - HUB PULLEY 28T S3M.3MF</FileName>
+      <SHA1>D75ED09B2EE954C7AAC5407E6BCECDD9CB746D71</SHA1>
+      <FileSize>114545</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\1000 - DRIVE\1200 - WHEEL ASSEMBLY\S-1213-F - AXLE SECURING NUT RETAINER.3MF</FileName>
+      <SHA1>36B59D143EB484B5E1BEB2CE08FE7964C922F0F5</SHA1>
+      <FileSize>27083</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\4000 - COMMON\4200 - TOOLING AND JIGS\A-4220-N - WEAPON STATOR JIG.SLDASM</FileName>
+      <SHA1>857BCE5D3B464D33E9BEE0813D15447DABDD03BB</SHA1>
+      <FileSize>115302</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\4000 - COMMON\4200 - TOOLING AND JIGS\P-4221-F - WEAPON STATOR JIG.SLDPRT</FileName>
+      <SHA1>0EA9ACE7156F74E94D7636B464522440A86E2124</SHA1>
+      <FileSize>60494</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\4000 - COMMON\4200 - TOOLING AND JIGS\S-4221-F - WEAPON STATOR JIG.3MF</FileName>
+      <SHA1>1D0E643CA572683BFCA4ECD15C19D4A2503BC24C</SHA1>
+      <FileSize>17184</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\3000 - WEAPON\3200 - WEAPON DRUM\D-3201-M - WEAPON DRUM.pdf</FileName>
+      <SHA1>595404F1AB5095F37EE84CBDC026E7442BC6007C</SHA1>
+      <FileSize>66334</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\3000 - WEAPON\3200 - WEAPON DRUM\D-3201-M - WEAPON DRUM.SLDDRW</FileName>
+      <SHA1>FAD3BE0484E745D6F339262686E9035EF5670C5C</SHA1>
+      <FileSize>208477</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\.125in 6061.dxf</FileName>
+      <SHA1>AA6CC33DEDC7A44241D1F0223083B7027EFBF3C7</SHA1>
+      <FileSize>175065</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\.125in 6061.omx</FileName>
+      <SHA1>31500C2C2BB5CF8938A7AB533334D31EA24F74F3</SHA1>
+      <FileSize>212244</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\0.25in AR500.dxf</FileName>
+      <SHA1>C22E0AD6D92828874BB6D9B674806FCCBB8AABA4</SHA1>
+      <FileSize>22931</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\0.25in AR500.omx</FileName>
+      <SHA1>F58EE688BCE446738F60F89C0EFEC07CB545CAB5</SHA1>
+      <FileSize>27416</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\1000 - DRIVE\1100 - DRIVE GEARMOTOR\D-1101-W - MOUNTING PLATE.DXF</FileName>
+      <SHA1>2BB507EE575228C05B61516937CEB82AC8A88504</SHA1>
+      <FileSize>25678</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\1000 - DRIVE\1100 - DRIVE GEARMOTOR\D-1101-W - MOUNTING PLATE_imported_DXF.dxf</FileName>
+      <SHA1>64C2B7CADF07903EFBF91CB8BD43D46C4F561F89</SHA1>
+      <FileSize>6082</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\1000 - DRIVE\1200 - WHEEL ASSEMBLY\D-1210-W - AXLE SECURING FRONTPLATE.DXF</FileName>
+      <SHA1>437E43469422DA0B36ED6F09BE60960ECFBD0D5E</SHA1>
+      <FileSize>23787</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\1000 - DRIVE\1200 - WHEEL ASSEMBLY\D-1210-W - AXLE SECURING FRONTPLATE_imported_DXF.dxf</FileName>
+      <SHA1>E893B626697228A4E7FA703B1D6A1427E69411D4</SHA1>
+      <FileSize>4150</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\1000 - DRIVE\1200 - WHEEL ASSEMBLY\D-1212-W - AXLE SECURING BACKPLATE.DXF</FileName>
+      <SHA1>1CDAD063CB498BA6A67C5180FCB7A208D30CADEC</SHA1>
+      <FileSize>23993</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\1000 - DRIVE\1200 - WHEEL ASSEMBLY\D-1212-W - AXLE SECURING BACKPLATE_imported_DXF.dxf</FileName>
+      <SHA1>AD3C3A21146E6D9A7B5199A05F3574FEFC9EA4F9</SHA1>
+      <FileSize>4153</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\3000 - WEAPON\3200 - WEAPON DRUM\D-3203-W - BEATER ARMS.DXF</FileName>
+      <SHA1>E2DA70155B0F594F2B2E9B32473E7D9B7196018D</SHA1>
+      <FileSize>30494</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\3000 - WEAPON\3200 - WEAPON DRUM\D-3203-W - BEATER ARMS_imported_DXF.dxf</FileName>
+      <SHA1>45FA214BBDFC8153092E142C2422017CE96F2B83</SHA1>
+      <FileSize>8391</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\3000 - WEAPON\3200 - WEAPON DRUM\D-3204-W - BEATER BAR.DXF</FileName>
+      <SHA1>B24FF0F7B2DA8D9C8F08824D09F7023EA4E727B4</SHA1>
+      <FileSize>24661</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\3000 - WEAPON\3200 - WEAPON DRUM\D-3204-W - BEATER BAR_imported_DXF.dxf</FileName>
+      <SHA1>2BAD4B6EE280A309378394811D1B89BA4564F93A</SHA1>
+      <FileSize>3770</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\4000 - COMMON\4300 - WHEEL CASTING\A-4300-N - WHEEL CASTING.SLDASM</FileName>
+      <SHA1>66E77D994607938E962FF5334E43CE3B6150BCAF</SHA1>
+      <FileSize>216739</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\D-0001-W - SIDE PANEL.DXF</FileName>
+      <SHA1>85BF4F5FA6292A0212F8EB5A6F4CBD8BBA7C516F</SHA1>
+      <FileSize>33305</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\D-0001-W - SIDE PANEL_imported_DXF.dxf</FileName>
+      <SHA1>E34CCE5DA7E548D3EA4184E3251F794103091FAC</SHA1>
+      <FileSize>15013</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\D-0002-W - BACK PANEL.DXF</FileName>
+      <SHA1>59081E7A5AA0EACE44216DEF8444DB46058D11AE</SHA1>
+      <FileSize>27061</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\D-0002-W - BACK PANEL_imported_DXF.dxf</FileName>
+      <SHA1>D3A8C20A05200F595A8B12C5327EBCC6CFC91FE3</SHA1>
+      <FileSize>5634</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\D-0003-W - FRONT PANEL.DXF</FileName>
+      <SHA1>CFC87F21400A621E1D0AE1C9CD14B012AE8A6C2E</SHA1>
+      <FileSize>26550</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\D-0003-W - FRONT PANEL_imported_DXF.dxf</FileName>
+      <SHA1>4CA7EB0D18CC3CF5FCC68DB1A1A84A5A70520C0A</SHA1>
+      <FileSize>5652</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\D-0011-W - WEAPON GUSSET RIGHT.DXF</FileName>
+      <SHA1>20FA1E4A9CDE645B896008C6005FA66466A236B6</SHA1>
+      <FileSize>25182</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\D-0011-W - WEAPON GUSSET RIGHT_imported_DXF.dxf</FileName>
+      <SHA1>EC94550F8142D6528C2C6C0687F672496E073B82</SHA1>
+      <FileSize>5118</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\D-0012-W - WEAPON GUSSET LEFT OUTER.DXF</FileName>
+      <SHA1>4D128227E97B6110A1ED3F4126C2657A2C4AB721</SHA1>
+      <FileSize>25077</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\D-0012-W - WEAPON GUSSET LEFT OUTER_imported_DXF.dxf</FileName>
+      <SHA1>24C9C65BE0B5DA0EE51611C6459DD4732E56527D</SHA1>
+      <FileSize>4780</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\D-0013-W - WEAPON GUSSET LEFT INNER.DXF</FileName>
+      <SHA1>434700713EC6F2C15B61D0DAB9912D8CD161140A</SHA1>
+      <FileSize>25042</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\D-0013-W - WEAPON GUSSET LEFT INNER_imported_DXF.dxf</FileName>
+      <SHA1>6413B8460B6FA3E74BBF7F4170CD106344BECCFA</SHA1>
+      <FileSize>4793</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\UHMW 0.375.dxf</FileName>
+      <SHA1>1B30E349C3BA0B9842A2F009B753D73EF07261F3</SHA1>
+      <FileSize>115987</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\UHMW 0.375.omx</FileName>
+      <SHA1>E903ADC49BA49996BA668C8AEB81B5FA914E5517</SHA1>
+      <FileSize>141488</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\4000 - COMMON\4300 - WHEEL CASTING\P-4301-F - WHEEL MOLD.SLDPRT</FileName>
+      <SHA1>C1FAC6665DC912260F066D69B4BDB41F65FDB6E8</SHA1>
+      <FileSize>151331</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\4000 - COMMON\4300 - WHEEL CASTING\P-4302-F - MOLD PLUNGER.SLDPRT</FileName>
+      <SHA1>9642155E57A21C4E028B5CB8BB4452FC758897A2</SHA1>
+      <FileSize>168520</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\4000 - COMMON\4300 - WHEEL CASTING\S-4301-F - WHEEL MOLD.3MF</FileName>
+      <SHA1>0764BB69828A45AC41C4BE927DEB1CEB86D2E7D1</SHA1>
+      <FileSize>30390</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\4000 - COMMON\4300 - WHEEL CASTING\S-4302-F - MOLD PLUNGER.3MF</FileName>
+      <SHA1>F33994BF1DB3A7284BE9E28EF8CFC0DEB63F14D9</SHA1>
+      <FileSize>37128</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\1000 - DRIVE\1200 - WHEEL ASSEMBLY\S-1204-F - WHEEL FRAME.3MF</FileName>
+      <SHA1>430FAC6FBAD91B1ECCC0A58DFEB186A1DB685E50</SHA1>
+      <FileSize>57897</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\2000 - ELECTRONICS\S-2003-P - PDB.3MF</FileName>
+      <SHA1>2DF764508891935F9554BC88101F99E32D7AF301</SHA1>
+      <FileSize>423179</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\P-0006-F - Allen Key Padding.SLDPRT</FileName>
+      <SHA1>F05A8BD18117C5D0B4DB3221030EC1C5242186E2</SHA1>
+      <FileSize>74759</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\S-0006-F - Allen Key Padding.3MF</FileName>
+      <SHA1>E5B200899257C058A45B0CA9A97498D4FC56D934</SHA1>
+      <FileSize>10052</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\1000 - DRIVE\1200 - WHEEL ASSEMBLY\P-1202-F - HUB PULLEY 28T S3M I.SLDPRT</FileName>
+      <SHA1>D0CC837EC73F27618853ED375F1596CB7C5FE717</SHA1>
+      <FileSize>911453</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\1000 - DRIVE\1200 - WHEEL ASSEMBLY\S-1202-F - HUB PULLEY 28T S3M I.3MF</FileName>
+      <SHA1>B2F2305CDBEC2FA99E97659A30D62A768613185C</SHA1>
+      <FileSize>86159</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\1000 - DRIVE\1200 - WHEEL ASSEMBLY\P-1202-F - HUB PULLEY 27T S3M.SLDPRT</FileName>
+      <SHA1>C8A4CB51717038FC50BA2C42C0876C903D9B55B2</SHA1>
+      <FileSize>1139496</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\1000 - DRIVE\1200 - WHEEL ASSEMBLY\P-1214-F - SHOULDER BOLT CAP.SLDPRT</FileName>
+      <SHA1>DF4AA8049F1C169B0434F6F46FF1AED71B4EFE37</SHA1>
+      <FileSize>66547</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\1000 - DRIVE\1200 - WHEEL ASSEMBLY\S-1202-F - HUB PULLEY 27T S3M.3MF</FileName>
+      <SHA1>DDA740FA2827E5B1483E5CAD2C3B9F2C620FB534</SHA1>
+      <FileSize>166932</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\1000 - DRIVE\1200 - WHEEL ASSEMBLY\S-1214-F - SHOULDER BOLT CAP.3MF</FileName>
+      <SHA1>2674E08631A4ED1A45962040A25CE2171567D5EE</SHA1>
+      <FileSize>84429</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\2000 - ELECTRONICS\P-2010-P - TRAY.3MF</FileName>
+      <SHA1>7798B0ABB9DCFFFC066346519B6C0CA4A1B7CED3</SHA1>
+      <FileSize>11042</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\2000 - ELECTRONICS\P-2010-P - TRAY.SLDPRT</FileName>
+      <SHA1>4F1420DAF54F7460B0C52F7A5F06DA910572DEE4</SHA1>
+      <FileSize>57517</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\3000 - WEAPON\P-3005-F - SHOULDER BOLT CAP.SLDPRT</FileName>
+      <SHA1>8B971F84DB79A169E79705B2E517AF67440F17AD</SHA1>
+      <FileSize>66907</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\3000 - WEAPON\P-3006-F - SHOULDER BOLT CAP HEX.SLDPRT</FileName>
+      <SHA1>457384A02D13D403B9F8A986B398F8394F846931</SHA1>
+      <FileSize>74245</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\3000 - WEAPON\S-3005-F - SHOULDER BOLT CAP.3MF</FileName>
+      <SHA1>540D74998A53613A38A9DF523BCCCF23281641C6</SHA1>
+      <FileSize>87386</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0000 - ROOT LOCUS\3000 - WEAPON\S-3006-F - SHOULDER BOLT CAP HEX.3MF</FileName>
+      <SHA1>FE0FEF5D0D74613FFFFE157E0F142C73DA9BDA35</SHA1>
+      <FileSize>82472</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+  </Standins>
+  <Version>1</Version>
+</GCSCMDirState>
